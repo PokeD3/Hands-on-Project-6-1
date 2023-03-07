@@ -1,4 +1,4 @@
-<!--
+/*
     JavaScript 6th Edition
     Chapter 6
     Hands-on Project 6-1
@@ -7,7 +7,7 @@
     Date:   February 17, 2023
 
     Filename: script.js
--->
+*/
 //Step 4
 <form method="post" action="/foo" novalidate>...</form>
 //Step 5
